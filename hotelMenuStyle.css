@@ -1,0 +1,122 @@
+div.menu{
+    background-color: rgb(245, 99, 99);
+    overflow: auto;
+    white-space: nowrap;
+    margin-left: 20%;
+    margin-right:20%;
+}
+div.menu h3{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    margin: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+  
+}
+div.menus{
+    margin-left: 13%;
+}
+div.bar{
+    margin-left: 72%;
+    margin-top: -2.9%;
+
+}
+
+div.para{
+    background-color: bisque;
+    margin-left: 20%;
+    margin-right: 50%;
+    margin-top: 1%;
+}  
+div.para h2{
+    margin-top: 0%;
+}
+.title{
+    margin-left: 10%;
+    font-family:sans-serif ;
+    font-size: 200%;
+    font-stretch: ultra-expanded;
+    letter-spacing:4px; 
+}
+.text{
+    margin-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+.me{
+ width: 23%;
+ text-align: center;
+ margin-left: 40%;
+ background-color:crimson;
+ padding-top: 2%;
+ padding-bottom: 2%;
+}
+
+div.image{
+  
+    padding: 5px;
+    width: 150px;
+    margin-right: 13%;
+    margin-left: 49%;
+    margin-top: -26.90%;
+  }
+  div.img1{
+    margin-left: 20%;
+    margin-right:20%;
+    background-color:bisque;
+    margin-top: 0%;
+ }
+ div.imgs1{
+    margin-left: 10%;
+
+ }
+ div.imgs2{
+    margin-top: 1%;
+
+ }
+ 
+ 
+ div.img2{
+    margin-left: 38%;
+    margin-right:26.2%;
+    background-color:bisque;
+    margin-top: -24.00%;
+ }
+ div.textarea{
+    margin-top: -17%;
+    margin-left: 55%;
+    margin-right:25%;
+    background-color:  rgb(245, 99, 99);
+ }
+ div.txt{
+  
+    margin-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+ }
+ div.txt1{
+  
+    margin-left: 5%;
+    margin-top: -22%;
+    border-width: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3px;
+ }
+ div.arrow{
+    margin-left: 5%;
+    margin-top: -12%;
+ }
+ div.img5{
+    margin-left: 13%;
+    margin-top: -11%;
+ }
+
+ 
+ 
+ 
+  
+
+
